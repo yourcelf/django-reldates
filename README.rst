@@ -30,6 +30,12 @@ Examples:
 | > 6 months          | jan 3, 2008     |
 +---------------------+-----------------+
 
+Dependencies
+------------
+
+Depends on jQuery, or any other library providing a $ function that selects .classes.
+
+
 Related
 -------
 https://docs.djangoproject.com/en/dev/ref/templates/builtins/#timesince
